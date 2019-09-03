@@ -1,6 +1,6 @@
 # Intro
 
-## Getting Start
+## 開始使用
 
 Becoming a super hero is a fairly straight forward process:
 
