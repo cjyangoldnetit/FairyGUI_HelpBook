@@ -1,6 +1,6 @@
 # Summary
 
 * [Intro](README.md)
-* [article2](article2.md)
-* [Structure](folder.md)
+* [關聯設置](article2.md)
+* [架構](folder.md)
 
