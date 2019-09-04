@@ -6,5 +6,9 @@
 
 
 
+| 未設置 | 已設置 |
+| :--- | :--- |
+| ![](/assets/before.png) | ![](/assets/after.png) |
+
 
 
