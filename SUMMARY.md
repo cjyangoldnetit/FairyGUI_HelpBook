@@ -7,4 +7,5 @@
 * [擴展功能](kuo-zhan-gong-neng.md)
 * [控制器](kong-zhi-qi.md)
 * [組件](jin-du-tiao.md)
+* [tips](tips.md)
 
