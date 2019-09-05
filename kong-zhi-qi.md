@@ -8,7 +8,7 @@
 
 | 設置Button控制組件 |  |
 | :--- | :--- |
-| ![](/assets/action_page.jpg) | 如欲以Button控制彈跳視窗，可將動 |
+| ![](/assets/action_page.jpg) | 如欲以Button控制彈跳視窗，可將動作&gt;改變其他控制器頁面。 |
 
 
 
