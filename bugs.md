@@ -8,7 +8,5 @@ Output: 無預告的產生程式碼變動。
 | :--- | :--- |
 | ![](/assets/bug01.jpg) | 在組件選擇的情況下\(1\)，切換按鈕功能\(2\)，即產生即時頁面變動\(3\)，在component已產生變動；但在Tab\(5\)卻沒有變更顯示。 |
 
-
-
-_replicated by : Kang_
+found_ by : Kang_
 
