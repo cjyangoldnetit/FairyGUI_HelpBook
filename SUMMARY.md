@@ -9,4 +9,5 @@
 * [擴展功能-bar](progressbar.md)
 * [Tips](tips.md)
 * [DragonBone](dragonbone.md)
+* [Bugs](bugs.md)
 
