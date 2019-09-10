@@ -12,3 +12,5 @@ file path&gt;&gt; fgui&gt;src&gt;ui&gt;XXXfolder
 
 將SKLoader置於ui 資料夾內
 
+將main等ts 置於src即可
+
