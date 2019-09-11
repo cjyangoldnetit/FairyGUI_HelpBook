@@ -14,5 +14,6 @@ file path&gt;&gt; fgui&gt;src&gt;ui&gt;XXXfolder
 
 將main等ts 置於src即可
 
-![](/assets/codesettings.png)\*欲將export 該component, 需set exported. 並於code settings指定好位址。
+![](/assets/codesettings.png)
+>欲將export 該component, 需set exported. 並於code settings指定好位址。
 
