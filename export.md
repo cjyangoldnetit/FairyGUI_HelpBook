@@ -16,8 +16,5 @@ file path&gt;&gt; fgui&gt;src&gt;ui&gt;XXXfolder
 
 
 
-|內文 | 圖 |
-|-----|-----|
-|內文<img width=500/>|圖<img width=50/>|
 
 
