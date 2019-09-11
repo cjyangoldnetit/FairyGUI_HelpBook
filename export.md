@@ -1,10 +1,12 @@
 # Publish
 
 * file path &gt;&gt; bin&gt;res
+
   * 含圖片等
 
 * code sets:
-  * file path&gt;&gt; fgui&gt;src&gt;ui&gt;XXXfolder
+
+  * file path&gt;&gt; game&gt;src&gt;ui
 
 * 含ts等
 
