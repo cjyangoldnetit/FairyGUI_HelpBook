@@ -13,7 +13,7 @@
 |<div style="width:500px">property</div> | <div style="width:50px">property</div> |
 | :----  | :--- |
 | ![my caption](/assets/dbone01_1.jpg)| <div style="width:50px">若拉圖片做reference, 請記得勾選invisible；<br>以及，設定的size大小要記得。</div> |
-| ![](/assets/dbone01_2.jpg) | 在換算過size大小後，以一空container \(scale為1\)<br>去盛取以供後續裝載Dragon Bone之用。並將代碼置於自定義數據。 |
+| ![](/assets/dbone01_2.jpg) | 在換算過size大小後，以一空container \(scale為1\)<br>去盛取以供後續裝載Dragon Bone之用。<br>並將代碼置於自定義數據。 |
 
 
 
