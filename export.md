@@ -23,6 +23,6 @@ file path&gt;&gt; fgui&gt;src&gt;ui&gt;XXXfolder
 <tr>                      <!-- 100% -->
     <th style="width:10%">width10<!--  10% --></th>
     <th style="width:50%">width50<!--  50% --></th>
-    <th>                  <!--  40% --></th>
+    <th style="width:40%">width40<!--  40% --></th>
 </tr>
 
