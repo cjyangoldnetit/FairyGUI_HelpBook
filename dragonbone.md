@@ -11,8 +11,8 @@
 3. 可拉一示意圖\(記得設invisible\)
 
 |  |  |
-| :--- | :--- |
-| ![](/assets/dbone01_1.jpg)<img width=500/ > | 若拉圖片做reference, 請記得勾選invisible；以及，設定的size大小要記得。 |
+| :---<img width=500/ >  | :--- |
+| ![](/assets/dbone01_1.jpg)| 若拉圖片做reference, 請記得勾選invisible；以及，設定的size大小要記得。 |
 | ![](/assets/dbone01_2.jpg) | 在換算過size大小後，以一空container \(scale為1\)去盛取以供後續裝載Dragon Bone之用。並將代碼置於自定義數據。 |
 
 
