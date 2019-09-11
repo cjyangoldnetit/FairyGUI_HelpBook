@@ -10,10 +10,13 @@
 
 * 含ts等
 
-    * 將SKLoader置於ui 資料夾內
+  * 將SKLoader置於ui 資料夾內
 
-    * 將main等ts 置於src即可
+  * 將main等ts 置於src即可
 
 ![](/assets/codesettings.png)
->欲將export 該component, 需set exported. 並於code settings指定好位址。
+
+> 欲將export 該component, 需set exported. 並於code settings指定好位址。即可在publish後在該資料夾查看到相關輸出檔案。
+
+
 
