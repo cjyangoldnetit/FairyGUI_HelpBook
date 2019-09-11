@@ -20,3 +20,9 @@ file path&gt;&gt; fgui&gt;src&gt;ui&gt;XXXfolder
 |-----|-----|
 |內文<img width=500/>|圖<img width=200/>|
 
+<tr>                      <!-- 100% -->
+    <th style="width:10%">width10<!--  10% --></th>
+    <th style="width:50%">width50<!--  50% --></th>
+    <th>                  <!--  40% --></th>
+</tr>
+
