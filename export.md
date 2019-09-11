@@ -14,3 +14,12 @@ file path&gt;&gt; fgui&gt;src&gt;ui&gt;XXXfolder
 
 將main等ts 置於src即可
 
+| <th style="width:70%"> | <th style="width:30%">
+|------|-----|-----    
+| 內文<th style="width:70%"> | 圖 <th style="width:30%">
+
+
+|內文<th style="width:70%"> | 圖 <th style="width:30%">
+|-----|-----
+|內文|圖|
+
