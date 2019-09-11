@@ -19,7 +19,7 @@ file path&gt;&gt; fgui&gt;src&gt;ui&gt;XXXfolder
 | 內文<th style="width:70%"> | 圖 <th style="width:30%">|
 
 
-|內文<th style="width:90%"> | 圖 <th style="width:10%">|
+|內文 | 圖 |
 |-----|-----|
 |內文<img width=500/>|圖<img width=200/>|
 
