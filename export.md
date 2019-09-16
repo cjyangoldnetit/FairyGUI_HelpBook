@@ -8,11 +8,11 @@
 
   * file path&gt;&gt; game&gt;src&gt;ui
 
-* 含ts等
+* ts等
 
   * 將SKLoader置於ui 資料夾內
 
-  * 將main等ts 置於src即可
+  * 將main, binder等ts 置於src即可
 
 ![](/assets/codesettings.png)
 
