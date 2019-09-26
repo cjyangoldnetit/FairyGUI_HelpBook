@@ -23,7 +23,7 @@
 Tips: 請確定將所有前端所需調用的圖片設為set exported，才不會只導出場景有用到的圖片而已。
 
 
-| 圖示&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |結果 |
+| 圖示 |結果 |
 | :--- | :--- |
 | ![](/assets/images_exported.png)| ![](/assets/set exported.png)] |
 
