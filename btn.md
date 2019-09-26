@@ -1,14 +1,12 @@
-# 按鈕功能
+# 擴展功能-btn
 
 | 樣式 |  |
 | :--- | :--- |
-| ![](/assets/asset_btn.jpg) | 以\(1\)或\(2\)的方式新增擴展\(按鈕\)功能。 |
+| ![](.gitbook/assets/asset_btn.jpg) | 以\(1\)或\(2\)的方式新增擴展\(按鈕\)功能。 |
 
 除了從窗口上方創建欄新增按鈕\(上圖表\)方式外，以下可針對已創組件\(Ctrl+F8\)進行調整至按鈕功能。
 
 | 樣式 | 說明步驟 |
 | :--- | :--- |
-| ![](/assets/function.png) | 於\(1\)點擊空白處\(進入基本設置\)，在捲展欄\(2\)選「按鈕」功能，即會出現\(3\)「按鈕」功能選項Tab。<br>注意， controller需為預設button; 非調整過的自訂義名稱 。 ![](/assets/btn_modified.png)|
-
-
+| ![](.gitbook/assets/function.png) | 於\(1\)點擊空白處\(進入基本設置\)，在捲展欄\(2\)選「按鈕」功能，即會出現\(3\)「按鈕」功能選項Tab。 注意， controller需為預設button; 非調整過的自訂義名稱 。 ![](.gitbook/assets/btn_modified.png) |
 

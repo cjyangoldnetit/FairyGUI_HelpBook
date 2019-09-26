@@ -1,15 +1,12 @@
-
----
+# 擴展功能-bar
 
 ## 進度條
 
 | 樣式 |  |
 | :--- | :--- |
-| ![](/assets/example.png) | 如欲達成左圖目標 |
+| ![](.gitbook/assets/example.png) | 如欲達成左圖目標 |
 | 第一步 |  |
-| ![](/assets/進度條_01.png) | 指定物件為遮罩 |
+| ![](.gitbook/assets/jin-du-tiao-01.png) | 指定物件為遮罩 |
 | 第二步 |  |
-| ![](/assets/進度條_02.png) | 填充方式調為360度 |
-
-
+| ![](.gitbook/assets/jin-du-tiao-02.png) | 填充方式調為360度 |
 

@@ -1,14 +1,12 @@
-# 控制器調整
+# 控制器
 
 | 導出控制組件 |  |
 | :--- | :--- |
-| ![](/assets/controller.png) | 若需將按鈕/功能輸出至其他頁面，可將修改器導出&lt;確認導出組件\(1\)&gt;。 |
+| ![](.gitbook/assets/controller.png) | 若需將按鈕/功能輸出至其他頁面，可將修改器導出&lt;確認導出組件\(1\)&gt;。 |
 
 ## 新增頁面
 
 | 設置Button控制組件 |  |
 | :--- | :--- |
-| ![](/assets/action_page.jpg) | 如欲以Button控制彈跳視窗，可將動作&gt;改變其他控制器頁面。 |
-
-
+| ![](.gitbook/assets/action_page.jpg) | 如欲以Button控制彈跳視窗，可將動作&gt;改變其他控制器頁面。 |
 
