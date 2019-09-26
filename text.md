@@ -1,4 +1,4 @@
-![](/assets/action_page.jpg)# 文字
+# 文字
 
 預計字體大小
 |圖示|說明|
