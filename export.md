@@ -20,7 +20,9 @@
 
 
 
-Tips: 若images受控制器控制的情況下會變換圖片\(如下圖按鈕\)，請記得將該按鈕使用到的所有圖片設為set exported，該圖才會被輸出，前端才得以調用。
+Tips: 請確定將所有前端所需調用的圖片設為set exported，才不會只導出場景有用到的圖片而已。
 
-![](/assets/Screen Shot 2019-09-26 at 09.33.06.png)![](/assets/Screen Shot 2019-09-26 at 09.37.56.png)
+
+
+![](/assets/images_exported.png)
 
