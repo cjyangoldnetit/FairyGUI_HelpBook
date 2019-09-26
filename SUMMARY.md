@@ -11,4 +11,5 @@
 * [DragonBone](dragonbone.md)
 * [Bugs](bugs.md)
 * [export](export.md)
+* [文字](text.md)
 
