@@ -25,6 +25,6 @@ Tips: 請確定將所有前端所需調用的圖片設為set exported，才不�
 
 | 圖示&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 說明|
 | :--- | :--- |
-| ![](/assets/images_exported.png)|  |
+| ![](/assets/images_exported.png)| ![](/assets/set exported.png)] |
 
 
