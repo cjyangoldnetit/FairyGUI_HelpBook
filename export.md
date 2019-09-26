@@ -18,5 +18,11 @@ Tips: 請確定將所有前端所需調用的圖片設為set exported，才不�
 
 ![](.gitbook/assets/images_exported.png)
 
+若是沒將該組圖設set exported, 那將會造成前端無法調用。記得將前端所需的圖皆設為set exported。
+
 ![](.gitbook/assets/set-exported.png)
+
+
+
+
 
