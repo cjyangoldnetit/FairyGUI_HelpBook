@@ -1,4 +1,4 @@
-# Table of contents
+# Summary
 
 * [Intro](README.md)
 * [資料夾架構](folder.md)
@@ -12,4 +12,5 @@
 * [Bugs](bugs.md)
 * [export](export.md)
 * [文字](text.md)
+* [擴展功能-popup](popup.md)
 
