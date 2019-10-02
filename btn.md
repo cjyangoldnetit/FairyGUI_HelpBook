@@ -10,3 +10,9 @@
 | :--- | :--- |
 | ![](.gitbook/assets/function.png) | 於\(1\)點擊空白處\(進入基本設置\)，在捲展欄\(2\)選「按鈕」功能，即會出現\(3\)「按鈕」功能選項Tab。 注意， controller需為預設button; 非調整過的自訂義名稱 。 ![](.gitbook/assets/btn_modified.png) |
 
+## Animation
+
+請關掉自動播放，前端會以onclick 去控制。
+
+
+
