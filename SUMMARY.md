@@ -13,4 +13,5 @@
 * [export](export.md)
 * [文字](text.md)
 * [擴展功能-popup](popup.md)
+* [naming](naming.md)
 
