@@ -14,4 +14,5 @@
 * [文字](text.md)
 * [naming](naming.md)
 * [popup](popup.md)
+* [xml](xml.md)
 
