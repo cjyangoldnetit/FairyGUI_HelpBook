@@ -1,4 +1,4 @@
-# Bugs
+# Errors
 
 result: 無預警變動xml。
 
@@ -12,11 +12,23 @@ result: 無預警變動xml。
 
 此情況為物件被放置到場景中，fairy會預設將exported 的控制器裝載到此場景，但需要手動設定該項\(4\)component 設定，否則會以預設方式裝載，導致悄悄存檔而無所知。
 
-
-
 閃礫問題: \(未解決\) 可能由laya 或 fairy造成
 
 文字輸出至平台漏字問題\(未解決\): ios 變新明體等
+
+
+
+上傳前請確認publish目錄是否修正
+
+原因: 雖然mac publish後看似沒有發佈，但實已發佈至專案根目錄， 並且以隱藏資料夾存儲
+
+terminal\(顯示mac隱藏檔案\):
+
+```
+	defaults write com.apple.finder AppleShowAllFiles TRUE;\killall Finder
+```
+
+> Read more https://0800happy.com/8284/
 
 
 
