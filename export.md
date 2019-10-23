@@ -22,7 +22,3 @@ Tips: 請確定將所有前端所需調用的圖片設為set exported，才不�
 
 ![](.gitbook/assets/set-exported.png)
 
-
-
-
-

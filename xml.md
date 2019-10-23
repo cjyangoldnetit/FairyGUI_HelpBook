@@ -1,4 +1,4 @@
-## xml
+# xml
 
 註解方式:
 
@@ -13,6 +13,4 @@
 &lt;text&gt;
 
 &lt;/text&gt;
-
-
 
