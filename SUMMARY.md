@@ -9,7 +9,7 @@
 * [擴展功能-bar](progressbar.md)
 * [transition](tips.md)
 * [DragonBone](dragonbone.md)
-* [Bugs](bugs.md)
+* [errors](bugs.md)
 * [TEXT](text.md)
 * [naming](naming.md)
 * [xml](xml.md)
