@@ -14,7 +14,7 @@
 <relation target="XXX" sidePair="top-top,center-center%"/>
 ```
 
-!需設置於該物件內
+> !需設置於該物件內
 
 ```
 <component id="n63_finl" name="p2" src="finlrkhfg" fileName="views/card/card_point2.xml" xy="10,15" pivot="0.5,0.5" size="145,39" aspect="true" controller="language,0">
@@ -23,6 +23,10 @@
       <relation target="" sidePair="width-width,height-height"/>
 </component>
 ```
+
+
+
+##### 動效呈現
 
 
 
