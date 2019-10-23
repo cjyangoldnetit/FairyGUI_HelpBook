@@ -4,7 +4,11 @@
 
 &lt;!-- xxx--&gt;
 
-父子關係:
+關聯設置
+
+```
+<relation target="XXX" sidePair="top-top,center-center%"/>
+```
 
 &lt;relation target="XXX" sidePair="top-top%,center-center%"/&gt;
 
