@@ -16,13 +16,3 @@
 | 房間按鈕\(動效\) | 元件表演即可 |  |
 |  |  |  |
 
-{% tabs %}
-{% tab title="First Tab" %}
-
-{% endtab %}
-
-{% tab title="Second Tab" %}
-
-{% endtab %}
-{% endtabs %}
-
