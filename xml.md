@@ -26,10 +26,10 @@
 
 ##### 動效呈現
 
-按組件名稱\(ex:n55\_hw63\)排序，並按關鍵幀依序設置，參考下例 
+按組件名稱\(ex:n55\_hw63\)排序，並按關鍵幀依序設置，參考下例
 
 ```
-  <transition name="point1">
+<transition name="point1">
     <item time="0" type="Alpha" target="n55_hw63" value="0"/>
     <item time="0" type="Alpha" target="n92_u298" tween="true" startValue="0" endValue="1" duration="5"/>
     <item time="0" type="Scale" target="n55_hw63" value="1,1"/>
@@ -38,7 +38,7 @@
     <item time="4" type="Scale" target="n55_hw63" tween="true" startValue="0,0" endValue="1.25,1.25" duration="3"/>
     <item time="4" type="Sound" value="ui://94hasbw3u298rkhgr,100"/>
     <item time="7" type="Scale" target="n55_hw63" tween="true" startValue="1.25,1.25" endValue="1,1" duration="2"/>
-  </transition>
+</transition>
 ```
 
 ##### 文字呈現
