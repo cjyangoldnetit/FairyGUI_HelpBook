@@ -16,5 +16,7 @@ TA: 工作檔上傳至dev branch\(fgui目錄下\)
 
 > 請勿在master branch作業，惟可依版本上架至master; 因master branch 無法回溯。
 
-前端: 管理 3, laya; TA若有需求新增branch可與前端溝通。
+前端: 
+
+管理 ． laya  \(TA若有需求, 可與前端溝通新增branch\)
 
