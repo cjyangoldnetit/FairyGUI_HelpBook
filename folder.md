@@ -6,7 +6,7 @@
 
 ##### **git 上架構為:**
 
-projectName-&gt;下面分三個目錄資料夾\(分別為: 1, dragonBone; 2, fgui; 3, laya \)
+projectName-&gt;專案下層分三個目錄資料夾, 分別為: 1, dragonBone; 2, fgui; 3, laya
 
 TA: 上傳更新至2, fgui \(dev branch\), 此為TA工作區。
 
