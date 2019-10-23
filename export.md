@@ -9,11 +9,13 @@
 
 \(先行預覽\)分別置於
 
-* 圖、fgui&gt;&gt;\專案\_laya\bin\OGTFC\fgui\package
-* code
+* 圖、fgui置於&gt;&gt;..\專案\_laya\bin\OGTFC\fgui\package
+* code置於&gt;&gt;..\專案\_laya\src\ui
 
 * file path &gt;&gt; bin&gt;res
+
   * 含圖片等
+
 * code sets:
   * file path&gt;&gt; game&gt;src&gt;ui
 * ts等
