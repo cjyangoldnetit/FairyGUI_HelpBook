@@ -10,10 +10,10 @@
 * [transition](tips.md)
 * [DragonBone](dragonbone.md)
 * [Bugs](bugs.md)
-* [export](export.md)
 * [TEXT](text.md)
 * [naming](naming.md)
 * [xml](xml.md)
 * [popup](popup.md)
+* [資料夾架構](folder.md)
 * [TA](ta.md)
 
