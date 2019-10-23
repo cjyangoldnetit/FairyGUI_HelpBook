@@ -41,9 +41,14 @@
 </transition>
 ```
 
-##### 文字呈現
+##### 文字呈現\(需注意順序\)
 
-font 指定字體
+* font 指定字體
+* align 對齊方式
+* leading 行距
+* autoSize 自動縮放
+* singleLine 單行
+* autoClearText 清除文本
 
 ```
 <text id="n66_uf0j" name="TF_money_num" xy="223,51" pivot="0,0.5" size="155,30" font="Microsoft YaHei" fontSize="20" color="#cccccc" align="center" vAlign="middle" leading="0" autoSize="shrink" singleLine="true" autoClearText="true" text="999,999,999.99">
