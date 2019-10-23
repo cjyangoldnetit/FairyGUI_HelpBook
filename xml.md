@@ -43,6 +43,8 @@
 
 ##### 文字呈現
 
+font 指定字體
+
 ```
 <text id="n66_uf0j" name="TF_money_num" xy="223,51" pivot="0,0.5" size="155,30" font="Microsoft YaHei" fontSize="20" color="#cccccc" align="center" vAlign="middle" leading="0" autoSize="shrink" singleLine="true" autoClearText="true" text="999,999,999.99">
       <relation target="n89_nl4m" sidePair="middle-middle"/>
