@@ -1,16 +1,16 @@
-# 圖片
+# 
+
+#### Mask
 
 欲設置遮罩，先點選空白處，於「基本設置」可以「自定義遮罩」\(選遮罩物件\)。
 
 ![](.gitbook/assets/settings.png)
 
-```text
-選擇遮罩對象
-```
 
-| 未設置 | 已設置 |
+
+|  | 已設置 |
 | :--- | :--- |
-| ![](.gitbook/assets/before.png) | ![](.gitbook/assets/after.png) |
+| ![](/assets/Screen Shot 2019-10-23 at 13.25.57.png) | ![](/assets/Screen Shot 2019-10-23 at 13.26.18.png) |
 
 ## 透明度
 
