@@ -6,9 +6,7 @@
 
 ![](.gitbook/assets/settings.png)
 
-
-
-|  | 已設置 |
+| 設置方式 | 設置效果 |
 | :--- | :--- |
 | ![](/assets/Screen Shot 2019-10-23 at 13.25.57.png) | ![](/assets/Screen Shot 2019-10-23 at 13.26.18.png) |
 
