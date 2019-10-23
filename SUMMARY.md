@@ -10,7 +10,7 @@
 * [transition](tips.md)
 * [DragonBone](dragonbone.md)
 * [errors](bugs.md)
-* [TEXT](text.md)
+* [text](text.md)
 * [naming](naming.md)
 * [xml](xml.md)
 * [popup](popup.md)
