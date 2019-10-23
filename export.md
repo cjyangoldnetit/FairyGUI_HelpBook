@@ -4,14 +4,13 @@
 
 輸出分為兩種資料夾
 
-* 圖/fgui\(..\專案\_laya\bin\OG\_TFC\fgui\)
+* 圖、fgui\(..\專案\_laya\bin\package\fgui\)
 * code\(應設置為..\專案\_laya\src\ui\)
 
 \(先行預覽\)分別置於
 
-* 圖/fgui&gt;&gt;\專案\_laya\bin\OGTFC\fgui\專
-
-
+* 圖、fgui&gt;&gt;\專案\_laya\bin\OGTFC\fgui\package
+* code
 
 * file path &gt;&gt; bin&gt;res
   * 含圖片等
