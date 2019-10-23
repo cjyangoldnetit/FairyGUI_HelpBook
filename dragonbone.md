@@ -7,13 +7,16 @@
 ##### Steps
 
 1. 新增空物件
-2. 自定義數據 \(ex.Dragonbone=dragonbone/three\_cards\_girl.sk,L,B\)
-3. 可拉一示意圖\(記得設invisible\)
+2. 自定義數據 
+
+```
+Dragonbone=dragonbone/three_cards_girl.sk,L,B
+```
 
 | property |  |
 | :--- | :--- |
-| ![my caption](.gitbook/assets/dbone01_1.jpg) | 若拉圖片做reference, 請記得勾選invisible； 以及，設定的size大小要記得。 |
-| ![](.gitbook/assets/dbone01_2.jpg) | 在換算過size大小後，以一空container \(scale為1\) 去盛取以供後續裝載Dragon Bone之用。 並將代碼置於自定義數據。 |
+| ![my caption](.gitbook/assets/dbone01_1.jpg) | 可拉圖片做reference\(請記得勾選invisible\)  |
+| ![](.gitbook/assets/dbone01_2.jpg) | 空物件設定好尺寸大小，以一空container \(scale為1\) 去裝載Dragon Bone，並在自定義數據設定代碼。             |
 
 
 
