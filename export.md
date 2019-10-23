@@ -22,3 +22,13 @@ Tips: 請確定將所有前端所需調用的圖片設為set exported，才不�
 
 ![](.gitbook/assets/set-exported.png)
 
+
+
+##### TA應用
+
+| 頁面 |  |
+| :--- | :--- |
+| Loading | 全系列遊戲共用，由前端操作，TA無需製作 |
+
+
+
