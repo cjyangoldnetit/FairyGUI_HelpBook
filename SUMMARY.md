@@ -11,7 +11,6 @@
 * [DragonBone](dragonbone.md)
 * [errors](bugs.md)
 * [text](text.md)
-* [naming](naming.md)
 * [xml](xml.md)
 * [popup](popup.md)
 * [export](export.md)
