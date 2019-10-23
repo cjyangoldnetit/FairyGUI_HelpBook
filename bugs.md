@@ -1,6 +1,6 @@
 # Bugs
 
-result: 無預警變動xml。
+result: 無預警變動xml
 
 重現情況:
 
