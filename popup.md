@@ -1,4 +1,4 @@
-#### dialog
+# popup
 
 請儘將元件按原比例輸出\(不需要逐一1280\*720\),
 
@@ -8,12 +8,32 @@
 
 **TA應用**
 
-| 彈窗 | 規格 |
-| :--- | :--- |
-| 動效樣式\(彈窗\) | 全遊戲統一 |
-| 語系\(彈窗\) | 沒有X按鈕 |
-| error code\(彈窗\) | 遊戲進行前、後，僅用「確認」按鈕 |
-|  |  |
-
-
-
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">&#x5F48;&#x7A97;</th>
+      <th style="text-align:left">&#x898F;&#x683C;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">&#x52D5;&#x6548;&#x6A23;&#x5F0F;(&#x5F48;&#x7A97;)</td>
+      <td style="text-align:left">&#x5168;&#x904A;&#x6232;&#x7D71;&#x4E00;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x8A9E;&#x7CFB;(&#x5F48;&#x7A97;)</td>
+      <td style="text-align:left">&#x6C92;&#x6709;X&#x6309;&#x9215;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">error code(&#x5F48;&#x7A97;)</td>
+      <td style="text-align:left">
+        <p>&#x904A;&#x6232;&#x9032;&#x884C;&#x524D;&#x3001;&#x5F8C;&#xFF0C;&#x50C5;&#x7528;&#x300C;&#x78BA;&#x8A8D;&#x300D;&#x6309;&#x9215;</p>
+        <p>&#x8EF8;&#x5FC3;:&#x4E2D;&#x5FC3;</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
