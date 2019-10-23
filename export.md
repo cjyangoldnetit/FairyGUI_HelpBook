@@ -1,5 +1,14 @@
 # export
 
+\*可依情況與前端溝通
+
+輸出分為兩種資料夾
+
+* code\(應設置為..\專案\_laya\src\ui\)
+* 圖/fgui\(\)
+
+
+
 * file path &gt;&gt; bin&gt;res
   * 含圖片等
 * code sets:
