@@ -28,12 +28,16 @@
 ![](.gitbook/assets/images_exported.png)
 
 > 若沒將該組圖設set exported, 那將會造成前端無法調用。記得將前端所需的圖皆設為set exported。
->
+
 > ex:前端需調用之卡/牌型/圖文字體等。
->
-> ![](.gitbook/assets/set-exported.png)
+
+
+
+##### 
 
 ##### TA應用
+
+
 
 | 頁面 |  |
 | :---: | :--- |
