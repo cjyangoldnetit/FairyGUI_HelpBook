@@ -1,4 +1,4 @@
-#### **排版規格**
+# TA
 
-[關聯設置](/relation.md)
+[關聯設置](relation.md)
 

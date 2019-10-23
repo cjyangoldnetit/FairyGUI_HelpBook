@@ -2,11 +2,9 @@
 
 ## 相關教程
 
-NAS -  金波資料交換暫存區 - FairyGUI-Tutorial 
+NAS - 金波資料交換暫存區 - FairyGUI-Tutorial
 
 &lt;由Kang提供&gt;
-
-## 
 
 ## 環境設置
 

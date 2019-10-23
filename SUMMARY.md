@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
 * [Intro](README.md)
 * [資料夾架構](folder.md)
@@ -15,5 +15,5 @@
 * [naming](naming.md)
 * [popup](popup.md)
 * [xml](xml.md)
-* [TA ](ta.md)
+* [TA](ta.md)
 
