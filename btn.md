@@ -1,4 +1,4 @@
-##### 創建按鈕
+##### 創建方式
 
 | 樣式 |  |
 | :--- | :--- |
@@ -8,7 +8,7 @@
 
 | 樣式 | 說明步驟 |
 | :--- | :--- |
-| ![](.gitbook/assets/function.png) | 於\(1\)點擊空白處\(進入基本設置\)，在捲展欄\(2\)選「按鈕」功能，即會出現\(3\)「按鈕」功能選項Tab。 注意， controller需為預設button; 非調整過的自訂義名稱 。 ![](.gitbook/assets/btn_modified.png) |
+| ![](.gitbook/assets/function.png) | 於\(1\)點擊空白處\(進入基本設置\)，在捲展欄\(2\)選「按鈕」功能，即會出現\(3\)「按鈕」設置「普通按鈕」等。 注意， controller需為預設button; 非調整過的自訂義名稱 。 ![](.gitbook/assets/btn_modified.png) |
 
 ##### Transition
 
