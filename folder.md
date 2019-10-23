@@ -2,7 +2,7 @@
 
 ##### 3.10版\(待調整\)
 
-安裝後，第一次設置project時，可刪除多餘檔案，將資料夾assets, settings, fairy文件檔移出FGUIDemo。
+安裝後，第一次設置project時，可刪除多餘檔案，將assets, settings, fairy, FGUIDemo等資料夾。
 
 ##### **git 上架構為:**
 
