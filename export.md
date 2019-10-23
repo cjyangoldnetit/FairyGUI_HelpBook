@@ -23,7 +23,7 @@
 
 ##### !注意
 
-請將所有前端所需調用的圖片、字體，記得都設為set exported，才不會只導出場景有用到的圖片而已
+請將所有前端所需調用的圖片、字體，記得都設為set exported，才不會只導出該\(輸出\)場景有用到的組件而已
 
 ![](.gitbook/assets/images_exported.png)
 
