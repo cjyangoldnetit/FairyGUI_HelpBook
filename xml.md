@@ -1,10 +1,12 @@
 # xml
 
-註解方式:
+##### 註解方式
 
-&lt;!-- xxx--&gt;
+```
+<!--"XXXXX"-->
+```
 
-關聯設置
+##### 關聯設置
 
 以target 為父級，並以頂-頂，中心-中心\(百分比\)
 
@@ -19,7 +21,7 @@
       <gearDisplay controller="msg" pages="2"/>
       <relation target="n62_hw63" sidePair="left-left%"/>
       <relation target="" sidePair="width-width,height-height"/>
-</component> 
+</component>
 ```
 
 
