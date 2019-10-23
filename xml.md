@@ -8,7 +8,7 @@
 
 ##### 關聯設置
 
-以target 為父級，並以頂-頂，中心-中心\(百分比\)
+例:以target 為父級，並以頂-頂，中心-中心\(百分比\)
 
 ```
 <relation target="XXX" sidePair="top-top,center-center%"/>
@@ -26,7 +26,7 @@
 
 ##### 動效呈現
 
-按組件名稱\(ex:n55\_hw63\)排序，並按關鍵幀依次設置，參考下例
+按組件ID\(ex:n55\_hw63\)排序，並按關鍵幀依次設置，參考下例
 
 ```
 <transition name="point1">
