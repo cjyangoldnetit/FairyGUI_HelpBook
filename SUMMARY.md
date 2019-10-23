@@ -1,4 +1,4 @@
-# Table of contents
+# Summary
 
 * [Intro](README.md)
 * [資料夾架構](folder.md)
@@ -11,7 +11,7 @@
 * [DragonBone](dragonbone.md)
 * [Bugs](bugs.md)
 * [export](export.md)
-* [文字](text.md)
+* [TEXT](text.md)
 * [naming](naming.md)
 * [xml](xml.md)
 * [popup](popup.md)
