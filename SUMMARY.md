@@ -14,6 +14,5 @@
 * [naming](naming.md)
 * [xml](xml.md)
 * [popup](popup.md)
-* [資料夾架構](folder.md)
 * [TA](ta.md)
 
