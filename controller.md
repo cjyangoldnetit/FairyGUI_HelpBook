@@ -4,11 +4,11 @@
 | :---: | :--- |
 | ![](/assets/Screen Shot 2019-10-23 at 15.50.02.png) | 將控制器導出至其他場景 |
 
-##### 控制彈窗
+##### ~~控制彈窗~~
 
-| 設置方式 |  |
+| ~~設置方式~~ |  |
 | :---: | :--- |
-| ![](.gitbook/assets/action_page.jpg) | 將動作&gt;改變其他控制器頁面，可用Button控制彈窗。 |
+| ![](.gitbook/assets/action_page.jpg) | ~~將動作&gt;改變其他控制器頁面，可用Button控制彈窗。~~ |
 
 ##### TA應用
 
