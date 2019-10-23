@@ -6,7 +6,7 @@
 
 ##### 新增頁面
 
-| 設置Button控制組件 |  |
+| 設置Button |  |
 | :---: | :--- |
 | ![](.gitbook/assets/action_page.jpg) | 將動作&gt;改變其他控制器頁面，可用Button控制彈窗。 |
 
