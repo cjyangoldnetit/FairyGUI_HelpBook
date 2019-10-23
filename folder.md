@@ -6,7 +6,7 @@
 
 ##### **git 上架構為:**
 
-projectName-&gt;專案下層分三個目錄資料夾, 分別為:
+projectName-&gt;專案下設置3個目錄, 分別為:
 
 * DragonBone
 * fgui
