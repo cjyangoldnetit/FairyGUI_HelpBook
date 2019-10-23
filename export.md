@@ -12,22 +12,20 @@
 * 圖、fgui置於&gt;&gt;..\專案\_laya\bin\OGTFC\fgui\package
 * code置於&gt;&gt;..\專案\_laya\src\ui
 
-
-
 * ##### SKLoader等
 
   * 將SKLoader置於ui 資料夾內
   * 將main, binder等ts 置於src即可
 
-![](.gitbook/assets/codesettings.png)
 
-> 欲將export 該component, 需set exported. 並於code settings指定好位址。即可在publish後在該資料夾查看到相關輸出檔案。
 
-
+##### 設置方式
+
+除了自訂Hotkey之外，可按右鍵選定輸出
 
 ##### !注意
 
- 請確定將所有前端所需調用的圖片設為set exported，才不會只導出場景有用到的圖片而已。
+請確定將所有前端所需調用的圖片設為set exported，才不會只導出場景有用到的圖片而已
 
 ![](.gitbook/assets/images_exported.png)
 
