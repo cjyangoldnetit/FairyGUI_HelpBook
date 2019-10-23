@@ -6,9 +6,13 @@
 
 ##### **git 上架構為:**
 
-projectName-&gt;專案下層分三個目錄資料夾, 分別為: 1, dragonBone; 2, fgui; 3, laya
+projectName-&gt;專案下層分三個目錄資料夾, 分別為: 
 
-TA: 上傳更新至2, fgui \(dev branch\), 此為TA工作區。
+* dragonBone
+* fgui
+* laya
+
+TA: 工作檔上傳至dev branch\(fgui目錄下\)
 
 > 另勿在master 工作，惟可依版本上架至master，因master branch 無法回溯。
 
