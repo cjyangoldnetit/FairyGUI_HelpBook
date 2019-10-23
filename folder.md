@@ -2,7 +2,7 @@
 
 ##### 3.10版\(待調整\)
 
-安裝後，於第一次設置project時，可將資料夾assets, settings, fairy文件檔移出FGUIDemo\(多餘檔案\)。
+安裝後，第一次設置project時，可將資料夾assets, settings, fairy文件檔移出FGUIDemo\(多餘檔案\)。
 
 ##### **git 上架構為:**
 
@@ -16,7 +16,7 @@ TA: 工作檔上傳至dev branch\(fgui目錄下\)
 
 > 請勿在master branch作業，惟可依版本上架至master; 因master branch 無法回溯。
 
-前端: 
+前端:
 
 管理 ． laya  \(TA若有需求, 可與前端溝通新增branch\)
 
