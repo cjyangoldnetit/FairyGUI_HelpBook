@@ -17,15 +17,13 @@
   * 將SKLoader置於ui 資料夾內
   * 將main, binder等ts 置於src即可
 
-
-
 ##### 設置方式
 
 除了自訂Hotkey之外，可按右鍵選定輸出
 
 ##### !注意
 
-請確定將所有前端所需調用的圖片設為set exported，才不會只導出場景有用到的圖片而已
+請將所有前端所需調用的圖片設為set exported，才不會只導出場景有用到的圖片而已
 
 ![](.gitbook/assets/images_exported.png)
 
