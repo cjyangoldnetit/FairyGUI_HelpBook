@@ -1,10 +1,12 @@
 # 資料夾架構
 
-## 3.10版\(待調整\)
+#### 3.10版\(待調整\)
 
-完成安裝後，在第一次設置project時，需將資料夾assets, settings, fairy文件檔移出FGUIDemo。
+安裝後，於第一次設置project時，可將資料夾assets, settings, fairy文件檔移出FGUIDemo\(多餘檔案\)。
 
-git 上架構為:
+
+
+#### **git 上架構為:**
 
 projectName-&gt;下面分三個目錄資料夾\(分別為: 1, dragonBone; 2, fgui; 3, laya \)
 
