@@ -1,4 +1,4 @@
-# Table of contents
+# Summary
 
 * [Intro](README.md)
 * [TA目錄](ta.md)
@@ -15,4 +15,5 @@
 * [xml](xml.md)
 * [popup](popup.md)
 * [export](export.md)
+* [files](tips.md)
 
