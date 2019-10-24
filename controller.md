@@ -12,7 +12,20 @@
 
 ## TA應用
 
-| 控制器 | 規格 |
-| :---: | :--- |
-| 語系控制器 | 簡中: 「zh-CN」 /英文:「en-US」\(注意大小寫\) |
-
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center">&#x63A7;&#x5236;&#x5668;</th>
+      <th style="text-align:left">&#x898F;&#x683C;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">&#x8A9E;&#x7CFB;&#x63A7;&#x5236;&#x5668;</td>
+      <td style="text-align:left">
+        <p>&#x7C21;&#x4E2D;: &#x300C;zh-CN&#x300D;</p>
+        <p>&#x82F1;&#x6587;:&#x300C;en-US&#x300D;(&#x6CE8;&#x610F;&#x5927;&#x5C0F;&#x5BEB;)</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
