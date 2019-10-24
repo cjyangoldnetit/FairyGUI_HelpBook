@@ -18,17 +18,5 @@
 
 文字輸出至平台漏字問題\(未解決\): ios 變新明體等
 
-上傳前請確認publish目錄是否修正
 
-原因: 雖然mac publish後看似沒有發佈，但實已發佈至專案根目錄， 並且以隱藏資料夾存儲
-
-terminal\(顯示mac隱藏檔案\):
-
-```text
-    defaults write com.apple.finder AppleShowAllFiles TRUE;\killall Finder
-```
-
-```text
-                                                                                                                                                                  [Read more](https://0800happy.com/8284/)
-```
 

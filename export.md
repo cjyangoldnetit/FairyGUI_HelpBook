@@ -17,9 +17,9 @@
 
 > 前端相關設定，亦可參考[Layabook](https://goldbook.gitbook.io/layabook/)
 
-## 設置方式
+## 設置發佈方式
 
-除了自訂Hotkey之外，可按右鍵選定輸出
+於資源庫，選定組件並按右鍵指定輸出，亦可自訂Hotkey快速鍵使用
 
 ## 注意
 
@@ -32,6 +32,20 @@
 ![](.gitbook/assets/images_exported.png)
 
 > ex:前端需調用之卡/牌型/圖文字體等
+
+{% hint style="info" %}
+上傳至git之前，請確認資料夾內有無錯誤檔案
+{% endhint %}
+
+ex: osx 在publish後，會將發佈檔案夾隱藏在專案根目錄之下 ，請將該隱藏檔案刪除乾淨再上傳。
+
+terminal
+
+```text
+	defaults write com.apple.finder AppleShowAllFiles TRUE;\killall Finder
+```
+
+                                                                                                                                                           _Read_ [_more_](https://0800happy.com/8284/)\_\_
 
 ## TA應用
 
