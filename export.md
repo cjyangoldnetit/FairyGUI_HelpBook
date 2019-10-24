@@ -15,6 +15,8 @@
   * 將SKLoader置於ui 資料夾內
   * 將main, binder等ts 置於src即可
 
+> 前端相關設定，亦可參考[Layabook](https://goldbook.gitbook.io/layabook/)
+
 ## 設置方式
 
 除了自訂Hotkey之外，可按右鍵選定輸出

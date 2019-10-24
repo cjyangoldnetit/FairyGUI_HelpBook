@@ -4,10 +4,6 @@
 
 NAS - 金波資料交換暫存區 - FairyGUI-Tutorial
 
-
-                                                                                                                      
-
-
 ## 環境設置
 
 {% hint style="info" %}

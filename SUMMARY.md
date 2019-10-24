@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Intro](README.md)
+* [TA目錄](ta.md)
 * [資料夾架構](folder.md)
 * [關聯設置](relation.md)
 * [圖片](picture.md)
@@ -12,7 +13,6 @@
 * [errors](bugs.md)
 * [text](text.md)
 * [xml](xml.md)
-* [export](export.md)
 * [popup](popup.md)
-* [TA](ta.md)
+* [export](export.md)
 
