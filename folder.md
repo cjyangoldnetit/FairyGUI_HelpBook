@@ -1,10 +1,10 @@
 # 資料夾架構
 
-##### 3.10版
+## 3.10版
 
 安裝後，第一次設置project時，可刪除多餘檔案，將assets, settings, fairy, FGUIDemo等資料夾。
 
-##### git 上架結構
+## git 上架結構
 
 projectName-&gt;專案下設置3個目錄, 分別為:
 
