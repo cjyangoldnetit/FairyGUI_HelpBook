@@ -7,7 +7,7 @@
 * [控制器](controller.md)
 * [擴展功能-btn](btn.md)
 * [擴展功能-bar](progressbar.md)
-* [transition](tips.md)
+* [transition](transition.md)
 * [DragonBone](dragonbone.md)
 * [errors](bugs.md)
 * [text](text.md)
