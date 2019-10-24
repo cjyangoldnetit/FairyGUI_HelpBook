@@ -1,6 +1,6 @@
 # 擴展功能-btn
 
-## 創建方式
+##### 創建方式
 
 | 圖示 | 說明 |
 | :---: | :--- |
@@ -12,11 +12,11 @@
 | :---: | :--- |
 | ![](.gitbook/assets/function.png) | 於\(1\)點擊空白處\(進入基本設置\)，在捲展欄\(2\)選「按鈕」功能，即會出現\(3\)「按鈕」設置「普通按鈕」等。   !注意:  controller需以預設button定義; 不可調整成自訂義名稱 。 ![](.gitbook/assets/btn_modified.png) |
 
-## [Transition](transition.md)
+##### [Transition](transition.md)
 
 > 請關掉自動播放，由前端控制。
 
-## TA應用
+##### TA應用
 
 <table>
   <thead>

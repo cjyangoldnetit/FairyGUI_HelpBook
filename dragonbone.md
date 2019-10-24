@@ -1,10 +1,10 @@
 # DragonBone
 
-## 觀念
+##### 說明
 
 由於fairy無法直接載入DragonBone\(DB\), 故採laya寫loader 指定該DB。
 
-## Steps
+##### 步驟
 
 1. 新增空物件
 2. 自定義數據 
