@@ -1,22 +1,22 @@
 # xml
 
-##### 註解方式
+## 註解方式
 
-```
+```text
 <!--"XXXXX"-->
 ```
 
-##### 關聯設置
+## 關聯設置
 
 例:以target 為父級，並以頂-頂，中心-中心\(百分比\)
 
-```
+```text
 <relation target="XXX" sidePair="top-top,center-center%"/>
 ```
 
 > !需設置於該物件內
 
-```
+```text
 <component id="n63_finl" name="p2" src="finlrkhfg" fileName="views/card/card_point2.xml" xy="10,15" pivot="0.5,0.5" size="145,39" aspect="true" controller="language,0">
       <gearDisplay controller="msg" pages="2"/>
       <relation target="n62_hw63" sidePair="left-left%"/>
@@ -24,11 +24,11 @@
 </component>
 ```
 
-##### 動效呈現
+## 動效呈現
 
 以組件ID\(ex:n55\_hw63\)排序，並按關鍵幀依次設置，參考下例
 
-```
+```text
 <transition name="point1">
     <item time="0" type="Alpha" target="n55_hw63" value="0"/>
     <item time="0" type="Alpha" target="n92_u298" tween="true" startValue="0" endValue="1" duration="5"/>
@@ -41,7 +41,7 @@
 </transition>
 ```
 
-##### 文字呈現\(需注意順序\)
+## 文字呈現\(需注意順序\)
 
 * font 指定字體
 * align 對齊方式
@@ -50,12 +50,10 @@
 * singleLine 單行
 * autoClearText 清除文本
 
-```
+```text
 <text id="n66_uf0j" name="TF_money_num" xy="223,51" pivot="0,0.5" size="155,30" font="Microsoft YaHei" fontSize="20" color="#cccccc" align="center" vAlign="middle" leading="0" autoSize="shrink" singleLine="true" autoClearText="true" text="999,999,999.99">
       <relation target="n89_nl4m" sidePair="middle-middle"/>
       <relation target="n60_6ylk" sidePair="left-right"/>
 </text>
 ```
-
-
 
