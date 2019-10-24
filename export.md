@@ -11,7 +11,7 @@
 
 * 圖、fgui置於&gt;&gt;..\專案\_laya\bin\OGTFC\fgui\package
 * code置於&gt;&gt;..\專案\_laya\src\ui
-* **SKLoader等**
+* SKLoader等
   * 將SKLoader置於ui 資料夾內
   * 將main, binder等ts 置於src即可
 
