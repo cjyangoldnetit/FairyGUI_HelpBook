@@ -4,11 +4,9 @@
 
 點選空白處，於「基本設置」內設定「自定義遮罩」\(選遮罩物件\)。
 
-![](.gitbook/assets/oct-08-2019-16-30-52.gif)
-
 | 圖示 | 說明 |
 | :---: | :--- |
-| ![](.gitbook/assets/screen-shot-2019-10-23-at-13.26.18.png) | ![](.gitbook/assets/screen-shot-2019-10-23-at-13.25.57.png) |
+| ![](.gitbook/assets/oct-25-2019-10-30-13.gif) | ![](.gitbook/assets/screen-shot-2019-10-23-at-13.25.57.png) |
 
 ## 透明度
 
