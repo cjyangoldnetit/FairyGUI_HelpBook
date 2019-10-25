@@ -17,6 +17,14 @@
 
 > 前端相關設定，亦可參考[Layabook](https://goldbook.gitbook.io/layabook/)
 
+{% hint style="info" %}
+若遇laya debug時，chrome 空白頁情況請應terminal用以下方式開啟chrome\(osx\)
+{% endhint %}
+
+```text
+open -n -a /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --args --user-data-dir="/tmp/chrome_dev_test" --disable-web-security
+```
+
 ## 設置發佈方式
 
 於資源庫，選定組件並按右鍵指定輸出，亦可自訂Hotkey快速鍵使用
