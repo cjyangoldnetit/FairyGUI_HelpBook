@@ -32,6 +32,10 @@
 
 詳見[參考](https://greensock.com/ease-visualizer)
 
+**動效相關**
+
+![](.gitbook/assets/oct-29-2019-17-51-09.gif)
+
 ## TA應用
 
 | 動效 | 規格 |
