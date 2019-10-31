@@ -4,7 +4,7 @@
 
 ![ex:&#x5982;&#x6B32;&#x9054;&#x5230;&#x5149;&#x6688;&#x906E;&#x7F69;](.gitbook/assets/oct-25-2019-10-30-13.gif)
 
-![](.gitbook/assets/maskmethod.png)
+![&#x9EDE;&#x9078;&#x7A7A;&#x767D;&#x8655;&#xFF0C;&#x65BC;&#x300C;&#x57FA;&#x672C;&#x8A2D;&#x7F6E;&#x300D;&#x5167;&#x8A2D;&#x5B9A;&#x300C;&#x81EA;&#x5B9A;&#x7FA9;&#x906E;&#x7F69;&#x300D;\(&#x9078;&#x906E;&#x7F69;&#x7269;&#x4EF6;\)](.gitbook/assets/maskmethod.png)
 
 ## 透明度
 
