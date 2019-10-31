@@ -6,7 +6,7 @@
 * [關聯設置](relation.md)
 * [圖片](picture.md)
 * [控制器](controller.md)
-* [擴展功能-btn](btn.md)
+* [按鈕 btn](btn.md)
 * [擴展功能-bar](progressbar.md)
 * [transition](transition.md)
 * [DragonBone](dragonbone.md)

@@ -1,16 +1,12 @@
-# 擴展功能-btn
+# 按鈕 btn
 
 ## 創建方式
 
-| 圖示 | 說明 |
-| :---: | :--- |
-| ![](.gitbook/assets/asset_btn.jpg) | 以\(1\)或\(2\)方式, 新增擴展\(ex:按鈕\)功能。 |
+![&#x9664;&#x4E86;&#x5DE5;&#x5177;&#x5217;&#x4E0A;&#x65B0;&#x589E;&#x65B9;&#x5F0F;&#xFF0C;&#x4EA6;&#x53EF;&#x6309;&#x5FEB;&#x6377;&#x65B9;&#x5F0F;&#x5275;&#x5EFA;](.gitbook/assets/btncreate.png)
 
-除了上列方式，亦可針對已創組件\(Ctrl+F8\)設為按鈕功能。
+從組件轉換成btn
 
-| 圖示 | 說明 |
-| :---: | :--- |
-| ![](.gitbook/assets/function.png) | 於\(1\)點擊空白處\(進入基本設置\)，在捲展欄\(2\)選「按鈕」功能，即會出現\(3\)「按鈕」設置「普通按鈕」等。   !注意:  controller需以預設button定義; 不可調整成自訂義名稱 。 ![](.gitbook/assets/btn_modified.png) |
+![&#x9EDE;&#x64CA;&#x7A7A;&#x767D;&#x8655;\(&#x9032;&#x5165;&#x57FA;&#x672C;&#x8A2D;&#x7F6E;\)&#xFF0C;&#x5728;&#x6372;&#x5C55;&#x6B04;&#x9078;&#x300C;&#x6309;&#x9215;&#x300D;&#x529F;&#x80FD;&#xFF0C;&#x8A2D;&#x7F6E;&#x300C;&#x666E;&#x901A;&#x6309;&#x9215;&#x300D;&#x7B49;&#x3002;   !&#x6CE8;&#x610F;:  controller&#x9700;&#x4EE5;&#x9810;&#x8A2D;button&#x5B9A;&#x7FA9;; &#x4E0D;&#x53EF;&#x8ABF;&#x6574;&#x6210;&#x81EA;&#x8A02;&#x7FA9;&#x540D;&#x7A31; &#x3002; ](.gitbook/assets/btnconvert.gif)
 
 ## [Transition](transition.md)
 
