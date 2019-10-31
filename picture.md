@@ -6,7 +6,9 @@ ex:如欲達到光暈遮罩
 
 ![](.gitbook/assets/oct-25-2019-10-30-13.gif)
 
-點選空白處，於「基本設置」內設定「自定義遮罩」\(選遮罩物件\)。![](.gitbook/assets/maskmethod.png)
+點選空白處，於「基本設置」內設定「自定義遮罩」\(選遮罩物件\)。
+
+![](.gitbook/assets/maskmethod.png)
 
 ## 透明度
 
