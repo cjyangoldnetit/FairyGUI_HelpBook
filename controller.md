@@ -8,7 +8,7 @@
 
 **命名原則**
 
-![&#x63A7;&#x5236;&#x5668;&#x547D;&#x540D;&#x6642;&#xFF0C;&#x8ACB;&#x907F;&#x958B;&#x91CD;&#x8986;&#x540D;&#x7A31;; &#x5728;&#x767C;&#x4F48;ts&#x5F8C;&#xFF0C;&#x76F8;&#x540C;name&#x6703;&#x81EA;&#x52D5;&#x547D;&#x540D;&#x800C;&#x7121;&#x6CD5;&#x5F9E;xml&#x67E5;&#x5230;](.gitbook/assets/ctrlnaming.png)
+![&#x63A7;&#x5236;&#x5668;&#x547D;&#x540D;&#x6642;&#xFF0C;&#x8ACB;&#x907F;&#x958B;&#x91CD;&#x8986;&#x540D;&#x7A31;; &#x5728;&#x767C;&#x4F48;ts&#x5F8C;&#xFF0C;&#x76F8;&#x540C;name&#x6703;&#x81EA;&#x52D5;&#x547D;&#x540D;&#x800C;&#x7121;&#x6CD5;&#x5F9E;xml&#x67E5;&#x5230;](.gitbook/assets/ctrlname.png)
 
 ## TA應用
 
