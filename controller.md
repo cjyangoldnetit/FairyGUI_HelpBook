@@ -1,36 +1,16 @@
 # 控制器
 
-| 圖示 | 說明 |
-| :---: | :--- |
-| ![](.gitbook/assets/screen-shot-2019-10-23-at-15.50.02.png) | 將控制器導出至其他場景                                                     |
+![&#x5C07;&#x63A7;&#x5236;&#x5668;&#x5C0E;&#x51FA;&#x81F3;&#x5176;&#x4ED6;&#x5834;&#x666F;](.gitbook/assets/screen-shot-2019-10-23-at-15.50.02.png)
 
 ## ~~控制彈窗~~
 
-| ~~圖示~~ | ~~說明~~ |
-| :---: | :--- |
-| ![](.gitbook/assets/action_page.jpg) | ~~將動作&gt;改變其他控制器頁面，可用Button控制彈窗。~~ |
+![&#x5C07;&#x52D5;&#x4F5C;&amp;gt;&#x6539;&#x8B8A;&#x5176;&#x4ED6;&#x63A7;&#x5236;&#x5668;&#x9801;&#x9762;&#xFF0C;&#x53EF;&#x7528;Button&#x63A7;&#x5236;&#x5F48;&#x7A97;&#x3002;](.gitbook/assets/action_page.jpg)
 
 **命名原則**
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:center">&#x5716;&#x793A;</th>
-      <th style="text-align:left">&#x8AAA;&#x660E;</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:center">
-        <img src=".gitbook/assets/ctrlnaming.png" alt/>
-      </td>
-      <td style="text-align:left">
-        <p>&#x63A7;&#x5236;&#x5668;&#x547D;&#x540D;&#x6642;&#xFF0C;&#x8ACB;&#x907F;&#x958B;&#x91CD;&#x8986;&#x540D;&#x7A31;</p>
-        <p>&#x5728;&#x767C;&#x4F48;ts&#x5F8C;&#xFF0C;&#x76F8;&#x540C;name&#x6703;&#x81EA;&#x52D5;&#x547D;&#x540D;&#x800C;&#x7121;&#x6CD5;&#x5F9E;xml&#x67E5;&#x5230;</p>
-      </td>
-    </tr>
-  </tbody>
-</table>## TA應用
+![&#x63A7;&#x5236;&#x5668;&#x547D;&#x540D;&#x6642;&#xFF0C;&#x8ACB;&#x907F;&#x958B;&#x91CD;&#x8986;&#x540D;&#x7A31;; &#x5728;&#x767C;&#x4F48;ts&#x5F8C;&#xFF0C;&#x76F8;&#x540C;name&#x6703;&#x81EA;&#x52D5;&#x547D;&#x540D;&#x800C;&#x7121;&#x6CD5;&#x5F9E;xml&#x67E5;&#x5230;](.gitbook/assets/ctrlnaming.png)
+
+## TA應用
 
 <table>
   <thead>
