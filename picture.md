@@ -2,11 +2,7 @@
 
 ## Mask
 
-ex:如欲達到光暈遮罩
-
-![](.gitbook/assets/oct-25-2019-10-30-13.gif)
-
-點選空白處，於「基本設置」內設定「自定義遮罩」\(選遮罩物件\)。
+![ex:&#x5982;&#x6B32;&#x9054;&#x5230;&#x5149;&#x6688;&#x906E;&#x7F69;](.gitbook/assets/oct-25-2019-10-30-13.gif)
 
 ![](.gitbook/assets/maskmethod.png)
 
