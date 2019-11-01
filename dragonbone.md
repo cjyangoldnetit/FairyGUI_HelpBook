@@ -13,8 +13,7 @@
 Dragonbone=dragonbone/three_cards_girl.sk,L,B
 ```
 
-| 圖示 | 說明 |
-| :---: | :--- |
-| ![my caption](.gitbook/assets/dbone01_1.jpg) | 可拉圖片做reference\(請記得勾選invisible\) |
-| ![](.gitbook/assets/dbone01_2.jpg) | 空物件設定好尺寸大小，以一空container \(scale為1\) 去裝載Dragon Bone，並在自定義數據設定代碼。 |
+![&#x53EF;&#x62C9;&#x5716;&#x7247;&#x505A;reference\(&#x8ACB;&#x8A18;&#x5F97;&#x52FE;&#x9078;invisible\)](.gitbook/assets/dbone01_1.jpg)
+
+![&#x7A7A;&#x7269;&#x4EF6;&#x8A2D;&#x5B9A;&#x597D;&#x5C3A;&#x5BF8;&#x5927;&#x5C0F;&#xFF0C;&#x4EE5;&#x4E00;&#x7A7A;container \(scale&#x70BA;1\) &#x53BB;&#x88DD;&#x8F09;Dragon Bone&#xFF0C;&#x4E26;&#x5728;&#x81EA;&#x5B9A;&#x7FA9;&#x6578;&#x64DA;&#x8A2D;&#x5B9A;&#x4EE3;&#x78BC;](.gitbook/assets/dbone01_2.jpg)
 
