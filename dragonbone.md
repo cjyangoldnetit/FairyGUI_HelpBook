@@ -8,6 +8,8 @@
 
 1. 新增空物件
 2. 自定義數據 
+3. 調整大小\(勿用縮放Scale\), 縮放值由前端調整
+4. 位置在輸出後會不一致，需要來回確認修正
 
 ```text
 Dragonbone=dragonbone/three_cards_girl.sk,L,B
